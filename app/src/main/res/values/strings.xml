@@ -17,5 +17,6 @@
     <string name="drawer_open">open</string>
     <string name="drawer_cloase">close</string>
     <string name="logout_msg">Here is the slides show!</string>
+    <string name="fab">fab</string>
 
 </resources>
