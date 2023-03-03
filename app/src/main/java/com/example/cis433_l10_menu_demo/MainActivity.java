@@ -42,7 +42,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         //setup onitem select listener for the navigation drawer
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view_main);
         navigationView.setNavigationItemSelectedListener(this);
-
         // to make the Navigation drawer icon always appear on the action bar
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
